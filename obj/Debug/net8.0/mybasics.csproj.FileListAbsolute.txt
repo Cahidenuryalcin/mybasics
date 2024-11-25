@@ -28,3 +28,4 @@ C:\Users\User\OneDrive\Masaüstü\aspnetcore_dersleri\mybasics\obj\Debug\net8.0\
 C:\Users\User\OneDrive\Masaüstü\aspnetcore_dersleri\mybasics\obj\Debug\net8.0\mybasics.pdb
 C:\Users\User\OneDrive\Masaüstü\aspnetcore_dersleri\mybasics\obj\Debug\net8.0\mybasics.genruntimeconfig.cache
 C:\Users\User\OneDrive\Masaüstü\aspnetcore_dersleri\mybasics\obj\Debug\net8.0\ref\mybasics.dll
+C:\Users\User\OneDrive\Masaüstü\aspnetcore_dersleri\mybasics\obj\Debug\net8.0\mybasics.sourcelink.json
