@@ -6,9 +6,12 @@
         </div>
         <div class="col-md-8">
             <div class="card-body">
-                <h5 class="card-title">
-                    <p>@Model.Title</p>
-                </h5>
+                <!-- <a href="/course/details/@Model.Id"> -->
+                <a asp-controller="Course" asp-action="Details" asp-route-id="@Model.Id">
+                    <h5 class="card-title">
+                        <p>@Model.Title</p>
+                    </h5>
+                </a>
                 <p class="card-text">@Model.Description</p>
             </div>
         </div>

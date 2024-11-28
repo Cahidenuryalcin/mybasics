@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YsrJ0yAc0x92OqF5USYVJRIqRv6+/csYlWYp0F7mIrY=",
+  "Hash": "Yc44e1LASqbabFqD/J90h+yJo2sjvSOPJSV6mjgwRWk=",
   "Source": "mybasics",
   "BasePath": "_content/mybasics",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\OneDrive\\Masaüstü\\aspnetcore_dersleri\\mybasics\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mybasics.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Masaüstü\\aspnetcore_dersleri\\mybasics\\wwwroot\\css\\contact.css",
+      "SourceId": "mybasics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Masaüstü\\aspnetcore_dersleri\\mybasics\\wwwroot\\",
+      "BasePath": "_content/mybasics",
+      "RelativePath": "css/contact.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
       "Identity": "C:\\Users\\User\\OneDrive\\Masaüstü\\aspnetcore_dersleri\\mybasics\\wwwroot\\css\\site.css",
